@@ -1,3 +1,5 @@
+First line changes
+
 Making changes to the Mars file. Note that it was originally commited EMPTY.
 
 Making more changes.
